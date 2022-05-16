@@ -26,6 +26,6 @@ public class Main {
     PhoneNumber phNum :phNums)
 
     {
-        System.out.println(phNum);
+        
     }
 } }
